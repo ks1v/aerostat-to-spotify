@@ -5,7 +5,7 @@ Service that creates lists on Spotify for each Aerostat epsiode
 Track lists source: [https://aerostatbg.ru/](aerostatbg.ru)
 
 ## TODO
-- [ ] Parse tracklists
+- [x] Parse tracklists
 - [ ] Search tracks via Spotify API
 - [ ] Build comprehensive database of tracks
 - [ ] Procedure for updating track database 
